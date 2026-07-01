@@ -1,69 +1,80 @@
-<h1 align="center">Hi 👋, I'm Aarush Khandelwal</h1>
+<div align="center">
 
-<h3 align="center">
-Final-Year B.E. in Artificial Intelligence & Data Science | AI/ML Enthusiast | Python & Django Developer
-</h3>
+# Hi 👋, I'm Aarush Khandelwal
 
-<p align="center">
-I enjoy building intelligent applications using Artificial Intelligence, Machine Learning, and Backend technologies while continuously improving my problem-solving skills through Data Structures & Algorithms.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Final-Year+AI+%26+Data+Science+Student;AI%2FML+Enthusiast;Python+%7C+Django+Developer;Building+Intelligent+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+
+<p>
+Passionate about building intelligent applications using <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Backend Development</b>. I enjoy solving real-world problems through code while continuously improving my skills in DSA and modern AI technologies.
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Aarush005coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Final-Year **B.E. in Artificial Intelligence & Data Science**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+- 🐍 Python & Django Developer
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- 🌍 Exploring **LLMs, LangChain, LangGraph & Computer Vision**
+- 🚀 Building AI-powered applications and backend systems
+- 🌱 Always learning new technologies and best practices
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,tensorflow,pytorch,docker,git" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 📊 GitHub Statistics
 
-🎓 Final-Year B.E. in Artificial Intelligence & Data Science
+<p align="center">
 
-💻 Passionate about AI, Machine Learning, Deep Learning & Generative AI
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🐍 Python & Django Developer
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🧩 Practicing Data Structures & Algorithms
-
-🤖 Exploring LangChain, LangGraph & Computer Vision
-
-🚀 Building real-world AI applications
-
-🌱 Always learning new technologies
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🔥 GitHub Streak
 
-### Languages
+<p align="center">
 
-- C
-- C++
-- Python
-- SQL
+<img src="https://streak-stats.demolab.com?user=Aarush005coder&theme=tokyonight&hide_border=true"/>
 
-### Frameworks & Libraries
-
-- Django
-- TensorFlow
-- PyTorch
-- NumPy
-- Pandas
-- OpenCV
-- LangChain
-- LangGraph
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- MySQL
-- Microsoft Excel
-- PowerBI
-- Tableau
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-I enjoy building practical software that combines Artificial Intelligence with modern software engineering. These projects showcase my experience in AI/ML, Computer Vision, Backend Development, and Generative AI while solving real-world problems.
+# 🚀 Featured Projects
 
 ### 🤖 ResumeIQ
 AI-powered Resume Analyzer with ATS scoring, OCR, and Gemini API integration.
@@ -72,38 +83,67 @@ AI-powered Resume Analyzer with ATS scoring, OCR, and Gemini API integration.
 Deep learning-based image geo-location predictor inspired by AlexNet that estimates latitude and longitude from a single image.
 
 ### 📄 OCR Document Processing
-Extracts and processes text from scanned documents using OCR and Computer Vision.
+Extracts and processes text from images and scanned documents using OCR and Computer Vision.
 
 ### 🌍 Language Translation Application
-Supports multilingual text and speech translation with a user-friendly interface.
+Multilingual translation platform supporting text and speech with an intuitive interface.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Advanced Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- System Design
-
----
-
-## 💻 Competitive Programming
-
-- Regularly solving Data Structures & Algorithms problems
-- Continuously improving problem-solving skills through coding practice
+- 🧠 Advanced Machine Learning
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ AI Agents
+- 🏗️ System Design
 
 ---
 
-## 📫 Connect With Me
+# 💻 Competitive Programming
 
-📧 Email: **khandelwalaarush2@gmail.com**
-
-💼 LinkedIn: *(https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/)*
-
-📊 Codolio: *(https://codolio.com/profile/Aarush_Kh)*
+- 🧩 Regularly solving **Data Structures & Algorithms**
+- 📈 Improving problem-solving through consistent coding practice
+- 🚀 Focused on writing efficient and optimized solutions
 
 ---
 
-⭐ *"Building intelligent solutions, writing clean code, and learning something new every day."*
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://codolio.com/profile/Aarush_Kh">
+<img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge"/>
+</a>
+
+<!-- <a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome"/>
+</a> -->
+
+<a href="mailto:khandelwalaarush2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ *"Building intelligent solutions, writing clean code, and learning something new every day."*
+
+</div>
