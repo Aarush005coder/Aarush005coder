@@ -55,11 +55,11 @@ Passionate about building intelligent applications using <b>Artificial Intellige
 # 📊 GitHub Statistics
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarush005coder&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=github_dark" />
 </p>
 
 ---
