@@ -55,6 +55,9 @@ I enjoy building intelligent applications using Artificial Intelligence, Machine
 - Docker
 - VS Code
 - MySQL
+- Microsoft Excel
+- PowerBI
+- Tableau
 
 ---
 
