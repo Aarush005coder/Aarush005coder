@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Aarush+Khandelwal;Final-Year+AI+%26+Data+Science+Student;AI%2FML+Engineer;Python+%7C+Django+Developer;Deep+Learning+%7C+Computer+Vision;Building+Real-World+AI+Applications+🚀" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aarush%20Khandelwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20•%20Python%20Developer%20•%20Backend%20Developer&descAlignY=60&descSize=20"/>
 
 <br><br>
 
