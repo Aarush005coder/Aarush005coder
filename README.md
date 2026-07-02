@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aarush005coder/Aarush005coder/main/assets/banner.png" width="100%" alt="Banner"/>
+<img src="C:\Users\khand\Downloads\github banner.png" width="100%" alt="Banner"/>
 
 # Hi 👋 I'm Aarush Khandelwal
 
