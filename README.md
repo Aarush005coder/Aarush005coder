@@ -1,186 +1,152 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header"/>
-
 <div align="center">
 
-<img src="github banner.png" width="100%" alt="Banner"/>
+# Hi 👋, I'm Aarush Khandelwal
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aarush%20Khandelwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20•%20Python%20Developer%20•%20Backend%20Developer&descAlignY=60&descSize=20"/>
-
-<br><br>
-
-### Final-Year B.E. in Artificial Intelligence & Data Science
-
-**AI/ML Engineer • Python Developer • Backend Developer • Computer Vision Enthusiast**
-
-> *Building intelligent software that solves real-world problems through Artificial Intelligence, Machine Learning, and Backend Engineering.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aarush+Khandelwal;Final-Year+AI+%26+Data+Science+Student;AI%2FML+Engineer;Python+%7C+Django+Developer;Building+Real-World+AI+Applications" alt="Typing SVG" />
 
 <p>
-
-<a href="mailto:khandelwalaarush2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aarush005coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/Aarush_Kh">
-<img src="https://img.shields.io/badge/Codolio-FF6B00?style=for-the-badge"/>
-</a>
-
+Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, Deep Learning, and Backend Development. I enjoy solving real-world problems, writing clean and scalable code, and continuously improving my problem-solving skills through Data Structures & Algorithms.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Aarush005coder&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Aarush005coder&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a Final-Year Artificial Intelligence & Data Science student passionate about building AI-powered products that solve real-world problems. My interests span Machine Learning, Deep Learning, Computer Vision, Generative AI, and scalable Backend Development.
+- 🎓 Final-Year **B.E. in Artificial Intelligence & Data Science**
+- 💡 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**
+- 🐍 Python & Django Developer
+- 🧩 Strong foundation in **Data Structures & Algorithms**
+- 🤖 Exploring **Large Language Models (LLMs), LangChain, LangGraph & AI Agents**
+- 👁️ Interested in **Computer Vision & Deep Learning**
+- 🚀 Building practical AI-powered applications
+- 🌱 Always learning and improving through real-world projects
 
-I enjoy transforming ideas into production-ready applications while continuously improving my problem-solving skills through Data Structures & Algorithms.
+---
 
-<p align="center">
+# 🛠️ Tech Stack
 
-<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### 💻 Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-## 💻 Languages
+### ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql"/>
+  <img src="https://skillicons.dev/icons?i=django,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ Frameworks & Libraries
+### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,tensorflow,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
 
 <p>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+### ☁️ Currently Exploring
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
-
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-43A047?style=for-the-badge"/>
 </p>
+---
+
+### ☁️ Currently Exploring
 
 <p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-43A047?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+I enjoy building practical software that combines Artificial Intelligence with modern software engineering. These projects reflect my experience in AI/ML, Computer Vision, Backend Development, and Generative AI while solving real-world challenges.
+
 ### 🤖 ResumeIQ
-
-AI-powered Resume Analyzer with ATS scoring, OCR-based text extraction, and Google Gemini integration.
-
----
+AI-powered Resume Analyzer that performs ATS scoring, OCR-based text extraction, and resume analysis using Google Gemini.
 
 ### 🌎 GeoVision
-
-A CNN inspired by AlexNet that predicts the latitude and longitude of an image using Deep Learning.
-
----
+An AlexNet-inspired deep learning model that predicts the **latitude and longitude** of an image using visual features, transforming image geolocation into a regression problem.
 
 ### 📄 OCR Document Processing System
-
-OCR-based document understanding system using Computer Vision.
-
----
+Extracts and processes text from images and scanned documents using OCR and Computer Vision techniques.
 
 ### 🌍 Language Translation Application
-
-Supports multilingual text and voice translation with an intuitive interface.
-
----
-
-# 📖 Currently Learning
-
-- 🤖 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Agents
-- ☁️ MLOps
-- 🧠 Advanced Deep Learning
-- 🏗️ System Design
+A multilingual translation platform supporting text and speech translation with an intuitive user experience.
 
 ---
 
-# 💡 Areas of Interest
+# 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Backend Development
-- Data Structures & Algorithms
-
----
-
-# 🎯 Career Objective
-
-Seeking opportunities as an **AI/ML Engineer**, **Software Engineer**, or **Backend Developer**, where I can contribute to impactful products while continuously learning and growing as an engineer.
+- Advanced Machine Learning
+- Deep Learning Architectures
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- System Design
+- MLOps Fundamentals
 
 ---
 
-# 📫 Connect With Me
+# 💻 Competitive Programming
+
+- 🧩 Regularly solving **Data Structures & Algorithms**
+- 📈 Continuously improving problem-solving and analytical thinking
+- ⚡ Focused on writing optimized and efficient code
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:khandelwalaarush2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Aarush005coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://codolio.com/profile/Aarush_Kh">
+<img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://codolio.com/profile/Aarush_Kh">
-<img src="https://img.shields.io/badge/Codolio-FF6B00?style=for-the-badge"/>
+<a href="mailto:khandelwalaarush2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aarush005coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -189,10 +155,10 @@ Seeking opportunities as an **AI/ML Engineer**, **Software Engineer**, or **Back
 
 <div align="center">
 
-### ⭐ *"Learning by building • Improving through consistency • Creating real-world impact."*
+### 💡 Quote
 
-**Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀**
+*"Code with purpose. Learn continuously. Build solutions that make an impact."*
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=footer"/>
