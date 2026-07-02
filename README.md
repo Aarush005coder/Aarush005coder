@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" alt="Banner"/>
+<img src="github banner.png" width="100%" alt="Banner"/>
 
 <br><br>
 
