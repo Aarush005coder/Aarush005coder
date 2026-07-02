@@ -79,18 +79,6 @@ Passionate about building intelligent applications using Artificial Intelligence
 </p>
 ---
 
-### ☁️ Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-43A047?style=for-the-badge"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 I enjoy building practical software that combines Artificial Intelligence with modern software engineering. These projects reflect my experience in AI/ML, Computer Vision, Backend Development, and Generative AI while solving real-world challenges.
