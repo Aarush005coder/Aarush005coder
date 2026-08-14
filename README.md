@@ -77,25 +77,69 @@ Passionate about building intelligent applications using Artificial Intelligence
   <img src="https://img.shields.io/badge/AI_Agents-1E88E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Vision-43A047?style=for-the-badge"/>
 </p>
+
 ---
 
 # 🚀 Featured Projects
 
 I enjoy building practical software that combines Artificial Intelligence with modern software engineering. These projects reflect my experience in AI/ML, Computer Vision, Backend Development, and Generative AI while solving real-world challenges.
 
-### 🤖 ResumeIQ
-AI-powered Resume Analyzer that performs ATS scoring, OCR-based text extraction, and resume analysis using Google Gemini.
+### 🔎 FindBlur
+**Image Blur & Sharpness Detection Tool**
 
-### 🌎 GeoVision
-An AlexNet-inspired deep learning model that predicts the **latitude and longitude** of an image using visual features, transforming image geolocation into a regression problem.
+A computer-vision application that analyzes image sharpness using **Laplacian Variance** and **FFT-based frequency analysis**. FindBlur combines both signals to classify images as **Sharp, Borderline, or Blurry**.
 
-### 📄 OCR Document Processing System
-Extracts and processes text from images and scanned documents using OCR and Computer Vision techniques.
+**Key Features:**
+- 🔍 Laplacian Variance blur detection
+- 📊 FFT high-frequency analysis
+- 🎚️ Adjustable detection thresholds
+- 🟢 Sharp / 🟡 Borderline / 🔴 Blurry classification
+- 📁 Batch image analysis
+- 📷 Live camera detection
+- 🧪 Edge and detail visualization
+- 📊 CSV report export
+- 📝 Manual result review
+- ☁️ Deployed with Streamlit
 
-### 🌍 Language Translation Application
-A multilingual translation platform supporting text and speech translation with an intuitive user experience.
+**Tech:** Python · OpenCV · Streamlit · NumPy · Pandas
+
+🔗 **[Live Demo](https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/)** · **[GitHub](https://github.com/Aarush005coder/FindBlur)**
 
 ---
+
+### 🤖 ResumeIQ
+**AI-Powered Resume Analyzer**
+
+AI-powered Resume Analyzer that performs ATS scoring, OCR-based text extraction, and resume analysis using Google Gemini.
+
+**Tech:** Python · Django · Django REST Framework · Gemini · OCR · NLP
+
+---
+
+### 🌎 GeoVision
+**Image-Based Geolocation Predictor**
+
+An AlexNet-inspired deep learning model that predicts the **latitude and longitude** of an image using visual features, transforming image geolocation into a regression problem.
+
+**Tech:** Python · PyTorch · CNN · Deep Learning · Computer Vision
+
+---
+
+### 📄 OCR Document Processing System
+**Intelligent OCR & Document Processing**
+
+Extracts and processes text from images and scanned documents using OCR and Computer Vision techniques.
+
+**Tech:** Python · OpenCV · OCR · NumPy · Image Processing
+
+---
+
+### 🌍 Language Translation Application
+**Multilingual Translation Platform**
+
+A multilingual translation application supporting text and speech translation with an intuitive user experience.
+
+**Tech:** Python · NLP · Speech Processing · Translation APIs
 
 # 📚 Currently Learning
 
