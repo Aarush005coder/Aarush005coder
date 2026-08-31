@@ -125,21 +125,33 @@ An AlexNet-inspired deep learning model that predicts the **latitude and longitu
 
 ---
 
-### 📄 OCR Document Processing System
-**Intelligent OCR & Document Processing**
+### 🌍 Quill
+**Full-Stack Translation & Productivity Workspace**
 
-Extracts and processes text from images and scanned documents using OCR and Computer Vision techniques.
+A modern full-stack workspace combining **multilingual text and speech translation, document processing, PDF & file conversion, smart utilities, favorites, notifications, and account-synced activity history** into a single platform.
 
-**Tech:** Python · OpenCV · OCR · NumPy · Image Processing
+**Key Features:**
+- 🌍 Text-to-text translation
+- 🎙️ Speech-to-text translation
+- 🗣️ Speech-to-speech translation
+- 🔊 Text-to-speech generation
+- 🔎 Automatic language detection
+- 📄 Multi-page document translation
+- 🧩 PDF merge, split, compress, rotate, organize and watermark
+- 🖼️ Image conversion and Image-to-PDF
+- 📘 Word / PDF / Excel conversion
+- 🛠️ Number, currency, unit, data, electrical, health and specific tools
+- 🕘 Account-synced activity history
+- ⭐ Favorites and saved translations
+- 🔔 In-app, email and push notifications
+- 🔐 JWT authentication, Google OAuth and GitHub OAuth
+- ☁️ Deployed with Vercel and Render
+
+**Tech:** React · TypeScript · Tailwind CSS · Python · Django · Django REST Framework · PostgreSQL · FFmpeg · Speech Recognition
+
+🔗 **[Live Demo](https://quill-one-sandy.vercel.app/)** · **[GitHub](https://github.com/Aarush005coder/Quill)**
 
 ---
-
-### 🌍 Language Translation Application
-**Multilingual Translation Platform**
-
-A multilingual translation application supporting text and speech translation with an intuitive user experience.
-
-**Tech:** Python · NLP · Speech Processing · Translation APIs
 
 # 📚 Currently Learning
 
