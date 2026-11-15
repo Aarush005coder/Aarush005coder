@@ -251,7 +251,9 @@ I enjoy solving problems, understanding patterns, and improving my approach with
 
 ---
 
-<h3 align="center">07. A Little Proof That I Code</h3>
+<h3 align="center">
+  
+### 07. A Little Proof That I Code
 
 <div align="center">
 
@@ -259,11 +261,11 @@ I enjoy solving problems, understanding patterns, and improving my approach with
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-<br/>
+<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarush005coder&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
