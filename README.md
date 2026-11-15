@@ -107,15 +107,6 @@ A computer-vision application that analyzes image sharpness using **Laplacian Va
 
 ---
 
-### 🤖 ResumeIQ
-**AI-Powered Resume Analyzer**
-
-AI-powered Resume Analyzer that performs ATS scoring, OCR-based text extraction, and resume analysis using Google Gemini.
-
-**Tech:** Python · Django · Django REST Framework · Gemini · OCR · NLP
-
----
-
 ### 🌎 GeoVision
 **Image-Based Geolocation Predictor**
 
