@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
 </a>
+<a href="https://codolio.com/profile/Aarush_Kh">
+  <img src="https://img.shields.io/badge/Codolio-My%20Profile-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D9FF" alt="Codolio" />
+</a>
 <a href="mailto:khandelwalaarush2@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
 </a>
@@ -220,6 +223,8 @@ An experimental deep learning project that predicts geographical coordinates fro
 
 I believe consistency matters more than occasional bursts of motivation. I regularly practice DSA to improve my problem-solving skills and strengthen my programming fundamentals.
 
+<div align="center">
+
 <a href="https://github.com/Aarush005coder/dsa-interview-preparation">
   <img src="https://img.shields.io/badge/DSA%20Practice-C++-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="DSA Practice Repository" />
 </a>
@@ -232,6 +237,11 @@ I believe consistency matters more than occasional bursts of motivation. I regul
 <a href="https://www.hackerrank.com/">
   <img src="https://img.shields.io/badge/HackerRank-Practice-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
 </a>
+<a href="https://codolio.com/profile/Aarush_Kh">
+  <img src="https://img.shields.io/badge/Codolio-View%20My%20Progress-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D9FF" alt="Codolio Profile" />
+</a>
+
+</div>
 
 ---
 
@@ -251,17 +261,41 @@ I believe consistency matters more than occasional bursts of motivation. I regul
 
 ### 08. Beyond The Terminal
 
-**♟ Chess**
+<div align="center">
 
-A game that keeps me thinking ahead, improving my concentration, and looking at problems from different perspectives.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/01-CHESS-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" alt="Chess"/>
+      <br/><br/>
+      <h3>♟ Think Ahead.</h3>
+      <p>Chess is more than a game for me. It sharpens my concentration, strategic thinking, and ability to approach problems from different perspectives.</p>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/02-CURIOSITY-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" alt="Curiosity"/>
+      <br/><br/>
+      <h3>💡 Stay Curious.</h3>
+      <p>I enjoy exploring new technologies, questioning how things work, and discovering the ideas behind the tools and systems we use every day.</p>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/03-CREATIVITY-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" alt="Building"/>
+      <br/><br/>
+      <h3>🛠 Build Things.</h3>
+      <p>I believe the best way to learn is by building. Experimenting with ideas, solving real problems, and improving through every iteration.</p>
+    </td>
+  </tr>
+</table>
 
-**💡 Curiosity**
+<br/>
 
-I enjoy exploring new technologies and understanding the ideas behind the tools I use.
+**Beyond writing code, I enjoy thinking, exploring, and creating.**
 
-**🛠️ Building**
+*Because great engineering starts with curiosity.*
 
-I prefer learning by creating real projects, experimenting with ideas, and improving through iteration.
+</div>
 
 ---
 
@@ -289,6 +323,9 @@ I prefer learning by creating real projects, experimenting with ideas, and impro
 </a>
 <a href="https://aarush-portfolio-six.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" />
+</a>
+<a href="https://codolio.com/profile/Aarush_Kh">
+  <img src="https://img.shields.io/badge/Codolio-Explore-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D9FF" alt="Codolio" />
 </a>
 
 <br/><br/>
