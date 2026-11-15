@@ -1,204 +1,201 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Aarush Khandelwal
+# Aarush Khandelwal
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Final-Year+AI+%26+Data+Science+Student;AI%2FML+Engineer;Python+%7C+Django+Developer;Building+Real-World+AI+Applications" alt="Typing SVG" />
-</a>
+### Software Engineer · AI/ML Engineer · Python Developer
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Final-Year+AI+%26+Data+Science+Student;Software+Engineer;AI%2FML+Engineer;Python+%7C+Django+Developer;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/AI_%26_Machine_Learning-36BCF7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python_%7C_Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<p>
+  <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khandelwalaarush2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Aarush005coder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/Aarush_Kh"><img src="https://img.shields.io/badge/Codolio-Profile-202020?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:khandelwalaarush2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://codolio.com/profile/Aarush_Kh"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://github.com/Aarush005coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aarush005coder&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Aarush005coder?label=Followers&style=flat-square&logo=github&color=36BCF7" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Aarush005coder&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me
 
-I love building **intelligent applications** with Artificial Intelligence, Machine Learning, Deep Learning and backend development. I enjoy solving real-world problems, writing clean and scalable code, and sharpening my skills through Data Structures & Algorithms.
+I'm a **Software Engineer and AI/ML enthusiast** pursuing a B.E. in Artificial Intelligence & Data Science at MBM University, Jodhpur.
 
-- 🎓 Final-Year **B.E. in Artificial Intelligence & Data Science**
-- 💡 Passionate about **AI, Machine Learning, Deep Learning & Generative AI**
-- 🐍 **Python & Django** developer
-- 🧩 Strong foundation in **Data Structures & Algorithms**
-- 🤖 Exploring **LLMs, LangChain, LangGraph & AI Agents**
-- 👁️ Interested in **Computer Vision & Deep Learning**
-- 🌱 Always learning and improving through real-world projects
+I enjoy designing and developing scalable software solutions, building intelligent applications, and solving real-world problems through technology.
+
+My interests span across software engineering, backend development, machine learning, deep learning, and Generative AI.
+
+- 🎓 Final-Year B.E. Artificial Intelligence & Data Science Student
+- 💻 Interested in Software Engineering and Full-Stack Development
+- 🤖 Building AI/ML-powered applications and intelligent systems
+- 🐍 Working with Python, Django, C++ and modern development tools
+- 🧠 Practicing Data Structures & Algorithms and problem-solving
+- 🚀 Exploring LLMs, RAG, LangChain, LangGraph and AI Agents
+
+**My approach:** Write clean code, understand problems deeply, and build solutions that create real value.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Technical Skills
 
-### 💻 Languages
+### Programming Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+</p>
 
-### ⚙️ Frameworks & Libraries
+### Software & Web Development
 
-<img src="https://skillicons.dev/icons?i=django,tensorflow,pytorch" />
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,typescript,html,css,js,tailwind,postgres" />
+</p>
 
-<br/>
+### AI, Machine Learning & Data Science
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=flat-square" />
+</p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-### ☁️ Currently Exploring
-
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-43A047?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-*Practical software that combines AI with modern software engineering.*
+### 01. Automeld — AI-Powered Machine Learning Platform
 
-### 🌍 Quill — Translation & Productivity Workspace
+> Building an intelligent platform that simplifies the machine learning workflow through AI-powered automation.
 
-> A modern full-stack workspace that brings **multilingual translation, document processing, file conversion, smart utilities and synced activity history** into a single platform.
+- 🤖 Automates ML model training using AI.
+- 💬 Integrated AI chat for interacting with the platform.
+- 📊 AI-powered insights to help understand model performance and results.
+- ⚙️ Focused on simplifying the end-to-end machine learning workflow.
 
-**🗣️ Translation**
-- 🌍 Text-to-text translation
-- 🎙️ Speech-to-text and 🗣️ speech-to-speech translation
-- 🔊 Text-to-speech generation
-- 🔎 Automatic language detection
-- 📄 Multi-page document translation
+**Tech:** Python · Machine Learning · AI · Data Science
 
-**🧩 File Tools**
-- PDF merge, split, compress, rotate, organize and watermark
-- 🖼️ Image conversion and Image-to-PDF
-- 📘 Word / PDF / Excel conversion
-
-**🛠️ Smart Utilities** — number, currency, unit, data, electrical, health and more
-
-**👤 Account Experience**
-- 🕘 Account-synced activity history
-- ⭐ Favorites and saved translations
-- 🔔 In-app, email and push notifications
-- 🔐 JWT authentication, Google OAuth and GitHub OAuth
-- ☁️ Deployed with Vercel and Render
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://quill-one-sandy.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-36BCF7?style=for-the-badge"/></a>
-<a href="https://github.com/Aarush005coder/Quill"><img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/></a>
+<img src="https://img.shields.io/badge/Status-Currently%20Building-orange?style=flat-square" />
 
 ---
 
-### 🔎 FindBlur — Image Blur & Sharpness Detection
+### 02. Quill — All-in-One Translation & Productivity Workspace
 
-> A computer-vision tool that analyzes image sharpness using **Laplacian Variance** and **FFT-based frequency analysis**, then combines both signals to classify each image as 🟢 **Sharp**, 🟡 **Borderline** or 🔴 **Blurry**.
+> A full-stack application combining multilingual communication, document processing, file conversion and productivity tools.
 
-- 🔍 Laplacian Variance blur detection
-- 📊 FFT high-frequency analysis
-- 🎚️ Adjustable detection thresholds
-- 🟢🟡🔴 Sharp / Borderline / Blurry classification
-- 📁 Batch image analysis
-- 📷 Live camera detection
-- 🧪 Edge and detail visualization
-- 📊 CSV report export
-- 📝 Manual result review
-- ☁️ Deployed with Streamlit
+- 🌍 Text and document translation with automatic language detection.
+- 🎙️ Speech-to-text and text-to-speech capabilities.
+- 📄 PDF merge, split, compress, rotate and watermark.
+- 🔄 Word, PDF and Excel conversion tools.
+- 🔐 JWT authentication, Google OAuth and GitHub OAuth.
+- 🕘 Synced activity history, favorites and notifications.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+**Tech:** React · TypeScript · Tailwind CSS · Python · Django · PostgreSQL
 
-<br/><br/>
-
-<a href="https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-36BCF7?style=for-the-badge"/></a>
-<a href="https://github.com/Aarush005coder/FindBlur"><img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/></a>
+<p>
+<a href="https://quill-one-sandy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Aarush005coder/Quill"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🌎 GeoVision — Image-Based Geolocation Predictor
+### 03. FindBlur — Image Blur & Sharpness Detection
 
-> An **AlexNet-inspired** deep learning model that predicts the **latitude and longitude** of an image from its visual features, turning image geolocation into a regression problem.
+> A computer vision application that analyzes image quality using Laplacian Variance and FFT-based frequency analysis.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-43A047?style=flat-square"/>
+- 🔍 Detects image blur using Laplacian Variance.
+- 📊 Performs FFT-based frequency analysis.
+- 🎯 Classifies images as Sharp, Borderline or Blurry.
+- 📁 Supports batch image processing.
+- 📷 Includes live camera detection.
+- 📈 Provides visual diagnostics and CSV report exports.
 
----
+**Tech:** Python · OpenCV · Streamlit · NumPy · Pandas
 
-## 📚 Currently Learning
-
-| 🧠 Machine Learning | 🏗️ Engineering | 🤖 Generative AI |
-|:---|:---|:---|
-| Advanced Machine Learning | System Design | Large Language Models (LLMs) |
-| Deep Learning Architectures | MLOps Fundamentals | Retrieval-Augmented Generation (RAG) |
-| | | AI Agents |
+<p>
+<a href="https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-36BCF7?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/Aarush005coder/FindBlur"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💻 Competitive Programming
+### 04. GeoVision — Image-Based Geolocation Predictor
 
-- 🧩 Regularly solving **Data Structures & Algorithms**
-- 📈 Sharpening problem-solving and analytical thinking
-- ⚡ Writing optimized and efficient code
+> A deep learning project that predicts the latitude and longitude of an image using visual features and an AlexNet-inspired CNN architecture.
 
-<a href="https://codolio.com/profile/Aarush_Kh"><img src="https://img.shields.io/badge/View_my_Codolio_profile-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+- 🧠 CNN-based image feature extraction.
+- 🌍 Geographic coordinate prediction.
+- 📍 Image geolocation as a regression problem.
+
+**Tech:** Python · PyTorch · CNN · Deep Learning · Computer Vision
 
 ---
+
+## 📚 Currently Exploring
+
+| Software Engineering | AI & Machine Learning | Generative AI |
+|---|---|---|
+| System Design | Advanced ML | LLMs |
+| Backend Architecture | Deep Learning | RAG |
+| Database Optimization | MLOps | AI Agents |
+| CI/CD & DevOps | Model Deployment | LangGraph |
+
+---
+
+## 💻 Problem Solving & Coding
+
+I regularly practice Data Structures & Algorithms to improve my problem-solving skills, algorithmic thinking and coding efficiency.
+
+<p>
+<a href="https://codolio.com/profile/Aarush_Kh"><img src="https://img.shields.io/badge/Codolio-View%20Profile-202020?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://github.com/Aarush005coder/dsa-interview-preparation"><img src="https://img.shields.io/badge/DSA-Preparation-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarush005coder&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
-Open to collaborations, ideas and conversations about AI, ML and building cool things.
+I'm always interested in discussing software engineering, AI/ML, innovative ideas, collaborations and opportunities to build meaningful products.
 
-<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:khandelwalaarush2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Aarush005coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:khandelwalaarush2@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Aarush005coder"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-### 💡 *"Code with purpose. Learn continuously. Build solutions that make an impact."*
+### "Build with purpose. Engineer with precision. Innovate with AI."
 
-⭐ **Thanks for visiting! Feel free to explore my repositories and connect with me.**
+⭐ Thanks for visiting my profile!
 
 </div>
