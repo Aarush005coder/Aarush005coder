@@ -239,31 +239,11 @@ I believe consistency matters more than occasional bursts of motivation. I regul
 
 <div align="center">
 
-<!-- GitHub Stats -->
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&count_private=true" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarush005coder&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
-
-<br/><br/>
-
-<!-- Isometric GitHub Commit Calendar -->
-
-<img width="95%" src="https://raw.githubusercontent.com/Aarush005coder/Aarush005coder/main/metrics.plugin.isocalendar.svg" alt="Isometric GitHub Commit Calendar" />
-
-<br/><br/>
-
-<!-- GitHub Profile Trophies -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Profile Trophies" />
+<img
+  width="100%"
+  src="./github-metrics.svg"
+  alt="Aarush's GitHub Metrics"
+/>
 
 </div>
 
