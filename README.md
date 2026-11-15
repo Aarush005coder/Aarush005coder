@@ -4,9 +4,9 @@
 
 # Aarush Khandelwal
 
-### `Building the future, one commit at a time.`
+### Building the future, one commit at a time.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;AI%2FML+Engineer;Python+%26+Backend+Developer;Turning+Ideas+Into+Real+Products;Learning.+Building.+Improving." alt="Typing SVG" />
+**Software Engineer | AI/ML Enthusiast | Full-Stack Developer**
 
 <br/>
 
@@ -37,12 +37,14 @@ class AarushKhandelwal:
         self.role = "Software Engineer"
         self.education = "B.E. AI & Data Science"
         self.university = "MBM University"
+
         self.interests = [
             "Software Development",
             "Artificial Intelligence",
             "Machine Learning",
             "Problem Solving"
         ]
+
         self.current_focus = [
             "Building Automeld",
             "Full-Stack Development",
@@ -98,9 +100,9 @@ I believe the best way to learn is to build something, get stuck, debug it, and 
 
 <h3 align="center">🤖 Automeld</h3>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/AI-ML%20Automation-00D9FF?style=flat-square&labelColor=0D1117" />
-</div>
+</p>
 
 <p align="center">
 An AI-powered platform that simplifies machine learning by automating model training, providing an AI chat assistant, and generating intelligent insights.
@@ -119,9 +121,9 @@ An AI-powered platform that simplifies machine learning by automating model trai
 
 <h3 align="center">🌐 Quill</h3>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Full%20Stack-Productivity-00D9FF?style=flat-square&labelColor=0D1117" />
-</div>
+</p>
 
 <p align="center">
 A productivity workspace featuring language translation, speech-to-text, text-to-speech, and document conversion in one place.
@@ -137,15 +139,14 @@ A productivity workspace featuring language translation, speech-to-text, text-to
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🔍 FindBlur</h3>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Computer%20Vision-Image%20Analysis-00D9FF?style=flat-square&labelColor=0D1117" />
-</div>
+</p>
 
 <p align="center">
 An image blur detection tool using Laplacian Variance and FFT to classify images as sharp, borderline, or blurry.
@@ -164,12 +165,12 @@ An image blur detection tool using Laplacian Variance and FFT to classify images
 
 <h3 align="center">🌍 GeoVision</h3>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Deep%20Learning-Image%20Geolocation-00D9FF?style=flat-square&labelColor=0D1117" />
-</div>
+</p>
 
 <p align="center">
-A deep learning project that uses a CNN inspired by AlexNet to predict geographical coordinates from images.
+A deep learning project using a CNN inspired by AlexNet to predict geographical coordinates from images.
 </p>
 
 <p align="center">
@@ -193,15 +194,19 @@ A deep learning project that uses a CNN inspired by AlexNet to predict geographi
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,ts,sql" />
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,ts" />
 
 ### Frontend & Backend
+
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,fastapi" />
 
 ### AI / ML & Data
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 
 ### Database & Tools
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,docker" />
 
 </div>
@@ -251,25 +256,11 @@ I enjoy solving problems, understanding patterns, and improving my approach with
 
 ---
 
-<h3 align="center">
-  
-### 07. A Little Proof That I Code
+#### 07. A Little Proof That I Code
 
 <div align="center">
 
-<!-- GitHub Stats + Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarush005coder&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-<br/><br/>
-
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="./github-metrics.svg" alt="Aarush's GitHub Metrics" width="100%" />
 
 </div>
 
@@ -328,8 +319,6 @@ while (alive) {
 ```
 
 **"Not just writing code. Building things that matter."**
-
-<img src="https://komarev.com/ghpvc/?username=Aarush005coder&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
