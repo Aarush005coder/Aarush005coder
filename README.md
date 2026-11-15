@@ -1,12 +1,10 @@
-
-
 <div align="center">
 
 # Aarush Khandelwal
 
-### Building the future, one commit at a time.
+### `Building the future, one commit at a time.`
 
-**Software Engineer | AI/ML Enthusiast | Full-Stack Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;AI%2FML+Engineer;Python+%26+Backend+Developer;Turning+Ideas+Into+Real+Products;Learning.+Building.+Improving." alt="Typing SVG" />
 
 <br/>
 
@@ -37,14 +35,12 @@ class AarushKhandelwal:
         self.role = "Software Engineer"
         self.education = "B.E. AI & Data Science"
         self.university = "MBM University"
-
         self.interests = [
             "Software Development",
             "Artificial Intelligence",
             "Machine Learning",
             "Problem Solving"
         ]
-
         self.current_focus = [
             "Building Automeld",
             "Full-Stack Development",
@@ -93,95 +89,206 @@ I believe the best way to learn is to build something, get stuck, debug it, and 
 ## 03. Things I'm Building
 
 <div align="center">
+  <sub><code>IDEA</code> &nbsp;➜&nbsp; <code>PROTOTYPE</code> &nbsp;➜&nbsp; <code>PRODUCT</code></sub>
+</div>
+
+<br/>
+
+<!-- ═════════════ FEATURED PROJECT: QUILL ═════════════ -->
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
-<h3 align="center">🤖 Automeld</h3>
+<br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-ML%20Automation-00D9FF?style=flat-square&labelColor=0D1117" />
-</p>
+<img src="https://img.shields.io/badge/⭐_FEATURED_PROJECT-00D9FF?style=for-the-badge&labelColor=0D1117" />
 
-<p align="center">
-An AI-powered platform that simplifies machine learning by automating model training, providing an AI chat assistant, and generating intelligent insights.
-</p>
+<h2 align="center">🌍 Quill</h2>
 
-<p align="center">
-<code>Python</code> <code>Machine Learning</code> <code>AI</code>
-</p>
+<img src="https://img.shields.io/badge/●_LIVE-00C853?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full_Stack-Productivity_Workspace-00D9FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Deployed-Vercel_+_Render-8A2BE2?style=flat-square&labelColor=0D1117" />
 
 <p align="center">
-<strong>🚧 Currently Building</strong>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Quill</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Full%20Stack-Productivity-00D9FF?style=flat-square&labelColor=0D1117" />
-</p>
-
-<p align="center">
-A productivity workspace featuring language translation, speech-to-text, text-to-speech, and document conversion in one place.
-</p>
-
-<p align="center">
-<code>React</code> <code>TypeScript</code> <code>Django</code> <code>PostgreSQL</code>
-</p>
-
-<p align="center">
-<a href="https://quill-one-sandy.vercel.app/">Live Demo</a> · <a href="https://github.com/Aarush005coder/Quill">Source Code</a>
+A modern full-stack workspace that brings <b>multilingual translation, document processing, file conversion, smart utilities and synced history</b> together in a single platform.
 </p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔍 FindBlur</h3>
+<h4 align="center">🗣️ Language & Voice</h4>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Computer%20Vision-Image%20Analysis-00D9FF?style=flat-square&labelColor=0D1117" />
-</p>
+<ul>
+<li>Text-to-text translation</li>
+<li>Speech-to-text &amp; speech-to-speech</li>
+<li>Text-to-speech generation</li>
+<li>Automatic language detection</li>
+<li>Multi-page document translation</li>
+</ul>
 
-<p align="center">
-An image blur detection tool using Laplacian Variance and FFT to classify images as sharp, borderline, or blurry.
-</p>
+<h4 align="center">🧩 File Tools</h4>
 
-<p align="center">
-<code>Python</code> <code>OpenCV</code> <code>Streamlit</code>
-</p>
-
-<p align="center">
-<a href="https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/">Live Demo</a> · <a href="https://github.com/Aarush005coder/FindBlur">Source Code</a>
-</p>
+<ul>
+<li>PDF merge, split, compress, rotate, organize &amp; watermark</li>
+<li>Image conversion &amp; Image-to-PDF</li>
+<li>Word / PDF / Excel conversion</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌍 GeoVision</h3>
+<h4 align="center">🛠️ Smart Utilities</h4>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Deep%20Learning-Image%20Geolocation-00D9FF?style=flat-square&labelColor=0D1117" />
-</p>
+<ul>
+<li>Number, currency &amp; unit tools</li>
+<li>Data, electrical &amp; health tools</li>
+</ul>
 
-<p align="center">
-A deep learning project using a CNN inspired by AlexNet to predict geographical coordinates from images.
-</p>
+<h4 align="center">👤 Account Experience</h4>
 
-<p align="center">
-<code>Python</code> <code>PyTorch</code> <code>CNN</code>
-</p>
-
-<p align="center">
-<strong>🧪 Exploring & Developing</strong>
-</p>
+<ul>
+<li>Account-synced activity history</li>
+<li>Favorites &amp; saved translations</li>
+<li>In-app, email &amp; push notifications</li>
+<li>JWT auth + Google &amp; GitHub OAuth</li>
+</ul>
 
 </td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://quill-one-sandy.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00D9FF?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/Aarush005coder/Quill"><img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github" /></a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═════════════ OTHER PROJECTS ═════════════ -->
+<div align="center">
+
+<table>
+<tr>
+
+<!-- ───── AUTOMELD ───── -->
+<td width="33%" valign="top" align="center">
+
+<h3 align="center">🤖 Automeld</h3>
+
+<img src="https://img.shields.io/badge/🚧_BUILDING-FF9800?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/AI_+_ML-Automation-00D9FF?style=flat-square&labelColor=0D1117" />
+
+<p align="center">
+An AI-powered platform that makes machine learning simpler and faster.
+</p>
+
+<p align="left">
+⚙️ Automated model training<br/>
+💬 Built-in AI chat assistant<br/>
+💡 Intelligent insights
+</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔒_IN_DEVELOPMENT-30363D?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+</td>
+
+<!-- ───── FINDBLUR ───── -->
+<td width="33%" valign="top" align="center">
+
+<h3 align="center">🔍 FindBlur</h3>
+
+<img src="https://img.shields.io/badge/●_LIVE-00C853?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/Computer_Vision-Image_Analysis-00D9FF?style=flat-square&labelColor=0D1117" />
+
+<p align="center">
+Detects blurry images using Laplacian Variance and FFT frequency analysis.
+</p>
+
+<p align="left">
+🟢🟡🔴 Sharp / Borderline / Blurry<br/>
+📁 Batch + 📷 live camera analysis<br/>
+📊 CSV report export
+</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/"><img src="https://img.shields.io/badge/🌐_DEMO-00D9FF?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/Aarush005coder/FindBlur"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" /></a>
+
+<br/><br/>
+
+</td>
+
+<!-- ───── GEOVISION ───── -->
+<td width="33%" valign="top" align="center">
+
+<h3 align="center">🌎 GeoVision</h3>
+
+<img src="https://img.shields.io/badge/🧪_EXPLORING-9C27B0?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/Deep_Learning-Image_Geolocation-00D9FF?style=flat-square&labelColor=0D1117" />
+
+<p align="center">
+Predicts where a photo was taken, straight from its pixels.
+</p>
+
+<p align="left">
+🧠 AlexNet-inspired CNN<br/>
+📍 Predicts latitude &amp; longitude<br/>
+📈 Geolocation as a regression problem
+</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-8A2BE2?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔬_EXPERIMENTAL-30363D?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+</td>
+
 </tr>
 </table>
 
@@ -194,19 +301,15 @@ A deep learning project using a CNN inspired by AlexNet to predict geographical 
 <div align="center">
 
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,ts,sql" />
 
 ### Frontend & Backend
-
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,fastapi" />
 
 ### AI / ML & Data
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 
 ### Database & Tools
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,docker" />
 
 </div>
@@ -256,11 +359,23 @@ I enjoy solving problems, understanding patterns, and improving my approach with
 
 ---
 
-#### 07. A Little Proof That I Code
+## 07. A Little Proof That I Code
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Aarush's GitHub Metrics" width="100%" />
+<!-- GitHub Stats + Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarush005coder&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+<br/><br/>
+
+<!-- GitHub Profile Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
@@ -320,5 +435,6 @@ while (alive) {
 
 **"Not just writing code. Building things that matter."**
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Aarush005coder&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 
+</div>
