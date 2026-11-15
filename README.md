@@ -1,300 +1,320 @@
- <div align="center">
+
+
+<div align="center">
 
 # Aarush Khandelwal
 
 ### `Building the future, one commit at a time.`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineer+in+Progress;AI%2FML+Engineer;Python+%26+Backend+Developer;Turning+Ideas+Into+Real+Products;Learning.+Building.+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;AI%2FML+Engineer;Python+%26+Backend+Developer;Turning+Ideas+Into+Real+Products;Learning.+Building.+Improving." alt="Typing SVG" />
 
-<p>
-  <img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20AI-7C3AED?style=for-the-badge" />
-</p>
+<br/>
 
-<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:khandelwalaarush2@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Aarush005coder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://codolio.com/profile/Aarush_Kh"><img src="https://img.shields.io/badge/Codolio-Profile-202020?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20AI-00D9FF?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://komarev.com/ghpvc/?username=Aarush005coder&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
+<br/><br/>
+
+<a href="https://github.com/Aarush005coder">
+  <img src="https://img.shields.io/badge/GitHub-Aarush005coder-181717?style=flat&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+</a>
+<a href="mailto:khandelwalaarush2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## `01. who_am_i.py`
+## 01. Who Am I?
 
 ```python
-from future import possibilities
-
 class AarushKhandelwal:
-
     def __init__(self):
-        self.role = "Software Engineer in Progress 💻"
-
-        self.education = (
-            "B.E. Artificial Intelligence & "
-            "Data Science @ MBM University"
-        )
-
+        self.role = "Software Engineer"
+        self.education = "B.E. AI & Data Science"
+        self.university = "MBM University"
         self.interests = [
-            "Software Engineering",
+            "Software Development",
             "Artificial Intelligence",
             "Machine Learning",
-            "Backend Development",
             "Problem Solving"
         ]
-
         self.current_focus = [
-            "🚀 Building Automeld",
-            "⚙️ Developing Quill",
-            "🧠 Exploring LLMs & AI Agents",
-            "💻 Mastering DSA & System Design"
+            "Building Automeld",
+            "Full-Stack Development",
+            "AI & Agentic Systems",
+            "DSA and System Design"
         ]
 
-        self.mindset = "Learn. Build. Break. Improve."
-
-    def introduce(self):
-        return "Turning ideas into working products."
-        
-me = AarushKhandelwal()
+    def motto(self):
+        return "Think. Build. Break. Fix. Repeat."
 ```
 
-## ⚡ 02. Current Mission
+I'm an aspiring **Software Engineer** who enjoys turning ideas into practical products. I like exploring how software works behind the scenes, building things that solve real problems, and learning technologies by actually using them.
 
-| Focus | What I'm doing |
-|---|---|
-| 💻 Software Engineering | Writing clean, scalable and maintainable code |
-| 🤖 AI / ML | Building intelligent applications |
-| 🐍 Backend Development | Python, Django and API development |
-| 🧠 Problem Solving | DSA and algorithm optimization |
-| 🚀 Product Building | Turning real-world problems into software |
-| 🌱 Engineering Growth | Exploring DevOps, MLOps and System Design |
+I believe the best way to learn is to build something, get stuck, debug it, and make it better.
 
 ---
 
-## 🚀 03. Things I'm Building
-
-*Not just projects. Experiments, ideas and solutions.*
+## 02. Current Mission
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Automeld
+### ⚡ Building
 
-**AI-Powered ML Automation**
-
-A platform that makes machine learning workflows easier with AI.
-
-- Automated ML model training
-- AI-powered chat assistant
-- Intelligent insights and analysis
-
-`Python` `AI/ML` `Automation`
-
-<img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square" />
+- Automeld — AI-powered ML platform
+- Quill — Productivity & language workspace
+- Exploring practical AI applications
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Quill
+### 🧠 Improving
 
-**Translation & Productivity Workspace**
-
-A full-stack platform bringing multiple productivity tools together.
-
-- Multilingual translation
-- Speech and document processing
-- File conversion utilities
-- Authentication and synced history
-
-`React` `TypeScript` `Django` `PostgreSQL`
-
-<a href="https://quill-one-sandy.vercel.app/">Live Demo ↗</a> · <a href="https://github.com/Aarush005coder/Quill">Source Code ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔎 FindBlur
-
-**Computer Vision | Image Analysis**
-
-An intelligent image sharpness detection application.
-
-- Laplacian Variance
-- FFT frequency analysis
-- Batch and live-camera detection
-- Visual diagnostics and CSV reports
-
-`Python` `OpenCV` `Streamlit`
-
-<a href="https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/">Live Demo ↗</a> · <a href="https://github.com/Aarush005coder/FindBlur">Source Code ↗</a>
-
-</td>
-<td width="50%">
-
-### 🌍 GeoVision
-
-**Deep Learning | Image Geolocation**
-
-An AlexNet-inspired CNN model for predicting image coordinates.
-
-- Visual feature extraction
-- Latitude and longitude prediction
-- Regression-based learning
-
-`Python` `PyTorch` `CNN`
+- Data Structures & Algorithms
+- Backend Engineering
+- System Design
+- Machine Learning & GenAI
 
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/Aarush005coder?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
+
+## 03. Things I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Automeld</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/AI-ML%20Automation-00D9FF?style=flat-square&labelColor=0D1117" />
+</div>
+
+<p align="center">
+An AI-powered platform that simplifies machine learning by automating model training, providing an AI chat assistant, and generating intelligent insights.
+</p>
+
+<p align="center">
+<code>Python</code> <code>Machine Learning</code> <code>AI</code>
+</p>
+
+<p align="center">
+<strong>🚧 Currently Building</strong>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Quill</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Full%20Stack-Productivity-00D9FF?style=flat-square&labelColor=0D1117" />
+</div>
+
+<p align="center">
+A productivity workspace featuring language translation, speech-to-text, text-to-speech, and document conversion in one place.
+</p>
+
+<p align="center">
+<code>React</code> <code>TypeScript</code> <code>Django</code> <code>PostgreSQL</code>
+</p>
+
+<p align="center">
+<a href="https://quill-one-sandy.vercel.app/">Live Demo</a> · <a href="https://github.com/Aarush005coder/Quill">Source Code</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔍 FindBlur</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Computer%20Vision-Image%20Analysis-00D9FF?style=flat-square&labelColor=0D1117" />
+</div>
+
+<p align="center">
+An image blur detection tool using Laplacian Variance and FFT to classify images as sharp, borderline, or blurry.
+</p>
+
+<p align="center">
+<code>Python</code> <code>OpenCV</code> <code>Streamlit</code>
+</p>
+
+<p align="center">
+<a href="https://findblur-hvflnggfs2adoxzgy26wvg.streamlit.app/">Live Demo</a> · <a href="https://github.com/Aarush005coder/FindBlur">Source Code</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌍 GeoVision</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Deep%20Learning-Image%20Geolocation-00D9FF?style=flat-square&labelColor=0D1117" />
+</div>
+
+<p align="center">
+A deep learning project that uses a CNN inspired by AlexNet to predict geographical coordinates from images.
+</p>
+
+<p align="center">
+<code>Python</code> <code>PyTorch</code> <code>CNN</code>
+</p>
+
+<p align="center">
+<strong>🧪 Exploring & Developing</strong>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🛠️ 04. My Developer Arsenal
+## 04. My Tech Arsenal
 
-### 💻 Languages
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql" />
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,ts,sql" />
 
-### ⚙️ Development
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=django,react,html,css,tailwind,postgres" />
+### AI / ML & Data
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 
-### 🤖 AI / ML / Data Science
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,docker" />
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=flat-square" />
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</div>
 
 ---
 
-## 🧠 05. Currently Exploring
+## 05. Currently Exploring
 
 ```text
-SOFTWARE ENGINEERING
-├── System Design
-├── Backend Architecture
-├── Database Optimization
-└── DevOps & CI/CD
-
-ARTIFICIAL INTELLIGENCE
-├── Advanced Machine Learning
-├── Deep Learning
-├── MLOps
-└── Model Deployment
-
-GENERATIVE AI
-├── Large Language Models
-├── Retrieval-Augmented Generation
-├── LangChain & LangGraph
-└── AI Agents
+├── Artificial Intelligence
+│   ├── Generative AI & LLMs
+│   ├── RAG & Vector Databases
+│   └── Agentic AI Systems
+│
+├── Software Engineering
+│   ├── System Design
+│   ├── Backend Architecture
+│   └── API Development
+│
+└── Engineering Practices
+    ├── DevOps & CI/CD
+    ├── MLOps
+    └── Cloud & Deployment
 ```
 
 ---
 
-## ⚔️ 06. The Problem-Solving Zone
-
-I believe writing code is easy. Understanding the problem and finding the right solution is the real skill.
-
-- 🧩 Regularly solving Data Structures & Algorithms.
-- ⚡ Exploring brute-force and optimized approaches.
-- 📈 Improving time and space complexity.
-- 🧠 Learning to think like an engineer.
-
-<a href="https://codolio.com/profile/Aarush_Kh"><img src="https://img.shields.io/badge/CODOLIO-Explore%20My%20Profile-202020?style=for-the-badge" /></a>
-<a href="https://github.com/Aarush005coder/dsa-interview-preparation"><img src="https://img.shields.io/badge/GITHUB-DSA%20Repository-181717?style=for-the-badge&logo=github" /></a>
-
----
-
-## 📊 07. A Little Proof That I Code
+## 06. Problem Solving
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarush005coder&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 🔥 A Heatmap of Consistency
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/36BCF7/Aarush005coder" alt="Aarush's GitHub Contribution Graph" width="95%" />
-
-</div>
-
----
-
-## 🎮 08. Beyond the Terminal
-
-```text
-THINGS THAT DEFINE ME
-
-01. LEARNING
-    Exploring new technologies.
-    Understanding how things work.
-    Staying curious.
-
-02. BUILDING
-    Turning ideas into products.
-    Experimenting with AI.
-    Solving real-world problems.
-
-03. PROBLEM SOLVING
-    Breaking complex problems down.
-    Thinking logically.
-    Optimizing solutions.
-
-04. PERSONAL GROWTH
-    Being consistent.
-    Learning from failures.
-    Becoming better every day.
-```
-
-♟️ Outside the editor, I enjoy playing chess — a good reminder that every move needs a little thought.
-
----
-
-## 🎯 09. Currently Manifesting
-
-- 💼 Landing a Software Engineering opportunity.
-- 🚀 Building products used by real people.
-- 🤖 Developing production-ready AI applications.
-- 🌍 Contributing to meaningful open-source projects.
-- 🧠 Becoming stronger at DSA and System Design.
-- 📈 Improving 1% every single day.
-
----
-
-<div align="center">
-
-## 10. Let's Build Something Meaningful
-
-Always open to collaborations, interesting ideas, software engineering opportunities and conversations around AI.
-
-<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:khandelwalaarush2@gmail.com"><img src="https://img.shields.io/badge/DROP%20A%20MESSAGE-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Practicing-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Learning-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
 
 <br/><br/>
 
+I enjoy solving problems, understanding patterns, and improving my approach with every challenge.
+
+</div>
+
+---
+
+<h3 align="center">07. A Little Proof That I Code</h3>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarush005coder&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+## 08. Beyond The Terminal
+
 ```text
+♟️  Chess
+    Thinking a few moves ahead — on and off the board.
+
+💡  Curiosity
+    Exploring how things work, not just how to use them.
+
+🛠️  Building
+    Turning random ideas into something real.
+```
+
+---
+
+## 09. Currently Manifesting
+
+- [ ] Becoming a better Software Engineer every day.
+- [ ] Building impactful products with AI.
+- [ ] Contributing to meaningful open-source projects.
+- [ ] Writing clean, scalable, maintainable code.
+- [ ] Getting better at solving real-world problems.
+
+---
+
+<div align="center">
+
+## Let's Connect & Build Something!
+
+*Always open to learning, collaborating, and building interesting things.*
+
+<a href="https://github.com/Aarush005coder">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:khandelwalaarush2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+```javascript
 while (alive) {
     learn();
     build();
@@ -303,8 +323,9 @@ while (alive) {
 }
 ```
 
-### "Don't just write code. Build things that matter."
+**"Not just writing code. Building things that matter."**
 
-**Thanks for stopping by. Keep building. 🚀**
+<img src="https://komarev.com/ghpvc/?username=Aarush005coder&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
+
