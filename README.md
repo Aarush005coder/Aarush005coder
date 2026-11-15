@@ -1,6 +1,4 @@
- <!-- ==================== HEADER ==================== -->
-
-<div align="center">
+ <div align="center">
 
 # Aarush Khandelwal
 
@@ -11,25 +9,23 @@
 <br/>
 
 <a href="https://github.com/Aarush005coder">
-  <img src="https://img.shields.io/badge/GitHub-Aarush005coder-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/GitHub-Aarush005coder-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
 </a>
 <a href="mailto:khandelwalaarush2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" />
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20AI-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" />
+<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" alt="Building Real-World Projects" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20AI-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" alt="Software and AI" />
 
 </div>
 
 ---
-
-<!-- ==================== 01. WHO AM I ==================== -->
 
 ### 01. Who Am I?
 
@@ -41,6 +37,7 @@ class AarushKhandelwal:
         self.university = "MBM University, Jodhpur"
 
         self.languages = ["C++", "Python", "SQL", "JavaScript"]
+
         self.interests = [
             "Software Development",
             "Artificial Intelligence",
@@ -62,25 +59,21 @@ class AarushKhandelwal:
 me = AarushKhandelwal()
 ```
 
-I enjoy understanding how things work, solving challenging problems, and turning ideas into practical applications. I am especially interested in the intersection of software engineering and AI.
+I enjoy understanding how things work, solving challenging problems, and turning ideas into practical applications. I'm especially interested in the intersection of software engineering and AI.
 
 ---
-
-<!-- ==================== 02. CURRENT MISSION ==================== -->
 
 ### 02. Current Mission
 
 | Focus | What I'm working on |
 |---|---|
 | **Building** | Automeld — an AI-powered platform that automates machine learning workflows |
-| **Developing** | Full-stack applications with React, Django, Python and PostgreSQL |
+| **Developing** | Full-stack applications using React, Django, Python and PostgreSQL |
 | **Practicing** | Data Structures & Algorithms using C++ |
 | **Exploring** | Agentic AI, LLMs, RAG and AI-powered automation |
 | **Improving** | System Design, clean code and production-level development |
 
 ---
-
-<!-- ==================== 03. PROJECTS ==================== -->
 
 ### 03. Things I'm Building
 
@@ -97,7 +90,7 @@ Building an intelligent platform that simplifies ML model development by automat
 - Automated ML model training
 - AI-powered chat assistant
 - AI-generated insights and analysis
-- Simplifying the machine learning workflow
+- Simplified machine learning workflows
 
 **Status:** Currently building
 
@@ -124,7 +117,6 @@ A full-stack platform designed to bring multiple language and document utilities
 
 </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
 
@@ -138,7 +130,7 @@ A computer vision application that analyzes image sharpness and classifies image
 - Sharp, Borderline and Blurry classification
 - Batch image processing
 - Live camera detection
-- CSV reports and diagnostics
+- Diagnostics and CSV reports
 
 **Tech:** Python · OpenCV · Streamlit · NumPy
 
@@ -166,32 +158,30 @@ An experimental deep learning project that predicts geographical coordinates fro
 
 ---
 
-<!-- ==================== 04. TECH ARSENAL ==================== -->
-
 ### 04. My Tech Arsenal
 
 **Languages & Core Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,ts,html,css" alt="Programming Languages" />
 </p>
 
 **Frontend & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,django,fastapi" alt="Frontend and Backend Technologies" />
 </p>
 
 **Databases & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,vscode" alt="Databases and Developer Tools" />
 </p>
 
 **AI, ML & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and Machine Learning Technologies" />
 </p>
 
 **Core Concepts**
@@ -199,8 +189,6 @@ An experimental deep learning project that predicts geographical coordinates fro
 `DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `Generative AI` · `RAG`
 
 ---
-
-<!-- ==================== 05. CURRENTLY EXPLORING ==================== -->
 
 ### 05. Currently Exploring
 
@@ -228,37 +216,34 @@ An experimental deep learning project that predicts geographical coordinates fro
 
 ---
 
-<!-- ==================== 06. PROBLEM SOLVING ==================== -->
-
 ### 06. Problem Solving
 
 I believe consistency matters more than occasional bursts of motivation. I regularly practice DSA to improve my problem-solving skills and strengthen my programming fundamentals.
 
 <a href="https://github.com/Aarush005coder/dsa-interview-preparation">
-  <img src="https://img.shields.io/badge/DSA%20Practice-C++-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/DSA%20Practice-C++-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="DSA Practice Repository" />
 </a>
-
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-Practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
 <a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Practice-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+  <img src="https://img.shields.io/badge/HackerRank-Practice-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
 </a>
 
 ---
-
-<!-- ==================== 07. GITHUB STATS ==================== -->
 
 ### 07. A Little Proof That I Code
 
 <div align="center">
 
-<!-- GitHub Stats + Top Languages -->
+<!-- GitHub Stats -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarush005coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+
+<!-- Top Languages -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush005coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&count_private=true" alt="Top Languages" />
 
@@ -270,9 +255,9 @@ I believe consistency matters more than occasional bursts of motivation. I regul
 
 <br/><br/>
 
-<!-- Isometric Commit Calendar -->
+<!-- Isometric GitHub Commit Calendar -->
 
-<img width="95%" src="./metrics.plugin.isocalendar.svg" alt="Isometric GitHub Commit Calendar" />
+<img width="95%" src="https://raw.githubusercontent.com/Aarush005coder/Aarush005coder/main/metrics.plugin.isocalendar.svg" alt="Isometric GitHub Commit Calendar" />
 
 <br/><br/>
 
@@ -283,8 +268,6 @@ I believe consistency matters more than occasional bursts of motivation. I regul
 </div>
 
 ---
-
-<!-- ==================== 08. BEYOND THE TERMINAL ==================== -->
 
 ### 08. Beyond The Terminal
 
@@ -302,8 +285,6 @@ I prefer learning by creating real projects, experimenting with ideas, and impro
 
 ---
 
-<!-- ==================== 09. CURRENTLY MANIFESTING ==================== -->
-
 ### 09. Currently Manifesting
 
 ```text
@@ -316,20 +297,18 @@ I prefer learning by creating real projects, experimenting with ideas, and impro
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
-
 <div align="center">
 
 ### Let's Build Something Meaningful.
 
 <a href="mailto:khandelwalaarush2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
 </a>
 <a href="https://aarush-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" />
 </a>
 
 <br/><br/>
