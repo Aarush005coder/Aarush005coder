@@ -280,7 +280,6 @@ I enjoy solving problems, understanding patterns, and improving my approach with
 <img src="https://github-profile-trophy.vercel.app/?username=Aarush005coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
-</div>
 
 ---
 
