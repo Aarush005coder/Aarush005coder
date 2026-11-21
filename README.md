@@ -33,33 +33,74 @@
 ### 01. Who Am I?
 
 ```python
+```python
 class AarushKhandelwal:
     def __init__(self):
-        self.role = "Software Engineer | AI/ML Enthusiast"
-        self.education = "B.E. Artificial Intelligence & Data Science"
-        self.university = "MBM University, Jodhpur"
+        # About Me
+        self.name = "Aarush Khandelwal"
+        self.role = "Software Engineer | AI/ML Developer"
+        self.education = "B.E. in Artificial Intelligence & Data Science"
+        self.university = "MBM University, Jodhpur, India"
 
-        self.languages = ["C++", "Python", "SQL", "JavaScript"]
-
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Problem Solving"
+        # Technical Skills
+        self.languages = [
+            "C++", "Python", "Java", "SQL", "JavaScript"
         ]
 
-        self.current_focus = [
-            "Automeld",
+        self.technologies = [
+            "React.js", "Django", "FastAPI",
+            "PostgreSQL", "MySQL", "Git", "GitHub"
+        ]
+
+        self.ai_ml = [
+            "Machine Learning", "Deep Learning",
+            "Generative AI", "NLP", "Computer Vision",
+            "LLMs", "RAG", "AI Agents"
+        ]
+
+        self.core_concepts = [
+            "Data Structures & Algorithms",
+            "Object-Oriented Programming",
+            "DBMS", "Operating Systems",
+            "System Design", "REST APIs"
+        ]
+
+        # Areas of Interest
+        self.interests = [
+            "Software Engineering",
+            "Artificial Intelligence",
             "Full-Stack Development",
-            "AI Agents",
-            "DSA & System Design"
+            "Problem Solving",
+            "Building Scalable Applications"
+        ]
+
+        # What I'm Building & Learning
+        self.current_focus = [
+            "Automeld - AI-Powered ML Automation",
+            "Intelligent AI Agents",
+            "Full-Stack Application Development",
+            "DSA & System Design",
+            "Exploring LLMs and Generative AI"
+        ]
+
+        # Developer Mindset
+        self.strengths = [
+            "Analytical Thinking",
+            "Continuous Learning",
+            "Problem Solving",
+            "Building Real-World Projects"
         ]
 
     def motto(self):
-        return "Learn continuously. Build meaningfully. Improve daily."
+        return "Learn continuously. Build meaningfully. Improve every day."
 
+    def __str__(self):
+        return f"Building ideas into impactful solutions."
 
 me = AarushKhandelwal()
+
+print(me)
+```
 ```
 
 I enjoy understanding how things work, solving challenging problems, and turning ideas into practical applications. I'm especially interested in the intersection of software engineering and AI.
