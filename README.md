@@ -101,7 +101,6 @@ me = AarushKhandelwal()
 
 print(me)
 ```
-```
 
 I enjoy understanding how things work, solving challenging problems, and turning ideas into practical applications. I'm especially interested in the intersection of software engineering and AI.
 
